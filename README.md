@@ -8,12 +8,11 @@ This is an advanced calculator program built with Python that can perform a vari
     Install the required dependencies using pip:
     pip install -r requirements.txt
 
-
+Note that you'll need to replace "INSERT_YOUR_SUBSCRIPTION_KEY_HERE" with your own Microsoft Math Solver subscription key.
 
 📚 Usage
 
 To run the program, simply run the calculator.py script:
-
 python calculator.py
 
 This will launch the calculator and display a menu of available operations.
