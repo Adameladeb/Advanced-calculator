@@ -4,9 +4,11 @@ This is an advanced calculator program built with Python that can perform a vari
 💻 Installation
 
     Clone the repository
+    https://github.com/Adameladeb/Advanced-calculator.git
     Install the required dependencies using pip:
+    pip install -r requirements.txt
 
-pip install -r requirements.txt
+
 
 📚 Usage
 
